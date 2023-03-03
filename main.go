@@ -1,14 +1,5 @@
 package main
 
-// aa aaa
-///ssasdasd
-func main() {
-	//add something
-	//123
-
-	a()
-}
-
-func b() {
-
-}
+// aa
+//feat/測試
+//main~
