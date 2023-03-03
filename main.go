@@ -5,5 +5,10 @@ package main
 func main() {
 	//add something
 	//123
+
 	a()
+}
+
+func b() {
+
 }
